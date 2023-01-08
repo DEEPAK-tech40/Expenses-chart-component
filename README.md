@@ -1,1 +1,46 @@
-# Expenses-chart-component
+# Frontend Mentor - Expenses chart component solution
+
+This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the bar chart and hover over the individual bars to see the correct amounts for each day
+- See the current day’s bar highlighted in a different colour to the other bars
+- View the optimal layout for the content depending on their device’s screen size
+- See hover states for all interactive elements on the page
+- **Bonus**: Use the JSON data file provided to dynamically size the bars on the chart
+
+### Screenshot
+
+### Links
+
+- Solution URL: [Solution](https://your-solution-url.com)
+- Live Site URL: [Live site](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+### What I learned
+
+This project is good for practicing CSS grid.
+
+```css
+.sum {
+  display: grid;
+  grid-template-rows: 0.5fr 1fr 1fr;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: center;
+  align-items: center;
+}
+```
