@@ -167,6 +167,10 @@ section {
     align-items: center;
 }
 
+hr {
+    border: 1px solid rgba(0, 0, 0, 0.192);
+}
+
 .txt {
     color: var(--Mediumbrown);
 }
