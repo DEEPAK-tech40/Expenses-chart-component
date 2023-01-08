@@ -4,6 +4,9 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 ## Overview
 
+![desktop-preview](https://user-images.githubusercontent.com/94350356/211197835-465e18b5-bece-4670-bfb6-472f80bf8c8f.jpg)
+
+
 ### The challenge
 
 Users should be able to:
@@ -15,6 +18,15 @@ Users should be able to:
 - **Bonus**: Use the JSON data file provided to dynamically size the bars on the chart
 
 ### Screenshot
+
+Desktop-view:
+
+![active-states](https://user-images.githubusercontent.com/94350356/211197862-71a952d3-b4c7-43e1-824a-d61dcc90e4df.jpg)
+
+Mobile-view:
+
+![mobile-design](https://user-images.githubusercontent.com/94350356/211197880-301e84c3-4884-4848-90f6-3e6fe0309dfe.jpg)
+
 
 ### Links
 
@@ -43,4 +55,10 @@ This project is good for practicing CSS grid.
   justify-content: center;
   align-items: center;
 }
+
+## Author
+
+- Frontend Mentor - [@DEEPAK-tech40](https://www.frontendmentor.io/profile/DEEPAK-tech40)
+
+
 ```
