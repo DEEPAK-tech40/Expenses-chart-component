@@ -55,10 +55,8 @@ This project is good for practicing CSS grid.
   justify-content: center;
   align-items: center;
 }
-
+```
 ## Author
 
 - Frontend Mentor - [@DEEPAK-tech40](https://www.frontendmentor.io/profile/DEEPAK-tech40)
 
-
-```
