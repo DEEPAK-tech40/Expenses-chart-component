@@ -30,8 +30,8 @@ Mobile-view:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/expenses-chart-component-hJM2q3BhK2)
+- Live Site URL: [Live site](https://deepak-tech40-expenses-chart.netlify.app/)
 
 ## My process
 
